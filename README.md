@@ -38,7 +38,7 @@ Aquí puedes ver algunos de mis proyectos más relevantes. ¡Te invito a explora
 #### 📌 Sistema de Gestión ISO 45001
 > **Descripción:** Aplicación web para la gestión integral bajo la norma ISO 45001.
 > **Tecnologías:** Laravel, MySQL.
-> [Ver repositorio](https://github.com/xaviermacias12/TU_REPO_AQUI)
+> [Ver repositorio](https://github.com/xaviermacias12/sgi-iso45001)
 
 #### 📌 Sitio Web Corporativo JAVDAN
 > **Descripción:** Sitio web con catálogo de productos y panel administrativo.
