@@ -50,10 +50,10 @@ Aquí puedes ver algunos de mis proyectos más relevantes. ¡Te invito a explora
 > **Tecnologías:** ASP.NET Core, Node.js, React Native, SQL Server.
 > [Ver repositorio](https://github.com/xaviermacias12/EventosAPI)
 
-#### 📌 Tienda Online de Ropa
-> **Descripción:** E-commerce con carrito de compras, CRUD y control de stock.
-> **Tecnologías:** Django (API REST), React, React Native.
-> [Ver repositorio](https://github.com/xaviermacias12/proyecto_ropa)
+#### 📌 Sistemas de Gestión de Alumnos
+> **Descripción:**Aplicación web para la gestión de alumnos.
+> **Tecnologías:** ASP.NET Core MVC, Entity Framework Core, SQL Server, Razor Views, HTML5, CSS3, Bootstrap, JavaScript.
+> [Ver repositorio](https://github.com/xaviermacias12/MVCAlumnos)
 
 ---
 
